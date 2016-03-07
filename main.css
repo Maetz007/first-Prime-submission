@@ -3,6 +3,7 @@ body {
   margin-left: 17rem;
   margin-right: 17rem;
   text-align: left;
+  background-color: lightgrey;
 }
 
 #header1 {
@@ -49,7 +50,7 @@ h4 {
 
 h5 {
   font-size: 14px; 
-  font-family: georgia;
+  font-family: georgia, arial;
   color: rgb(80,40,140);
 }
 
