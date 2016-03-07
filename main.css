@@ -1,0 +1,61 @@
+body {
+  margin-top: 1rem;
+  margin-left: 17rem;
+  margin-right: 17rem;
+  text-align: left;
+}
+
+#header1 {
+  background-color: rgb(40,60,80);
+  padding: 5px;
+}
+
+#header2 {
+  background-color: rgb(40,80,190);
+  padding: 1px;
+}
+
+#right {
+  margin-left: 25rem;
+  margin-top: -6.25rem;
+}
+
+h1 {
+  font-size: 34px;
+  font-family: georgia, arial;
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  font-size: 11px;
+  font-family: arial;
+  color: black;
+  text-align: center
+}
+
+h3 {
+  font-size: 16px;
+  font-family: arial;
+  color: white;
+  text-align: center;
+}
+
+h4 {
+  font-size: 12px; 
+  font-family: arial;
+  color: rgb(40,80,180);
+}
+
+h5 {
+  font-size: 14px; 
+  font-family: georgia;
+  color: rgb(80,40,140);
+}
+
+h6 {
+  font-size: 12px;
+  font-family: arial;
+  color: rgb(30,90,180);
+  text-indent: 40px;
+}
